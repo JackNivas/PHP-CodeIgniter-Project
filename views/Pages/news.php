@@ -1,0 +1,1 @@
+<h1>Daily News from News Page</h1>
